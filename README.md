@@ -1,1 +1,1 @@
-# Shopping List using DexieJS
+# Shopping List Web-App using DexieJS
